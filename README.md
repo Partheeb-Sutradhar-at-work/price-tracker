@@ -1,4 +1,5 @@
 # project B, browser automation price tracker
+# NOTE : This was generated with Cluade code as a workshop from Prog@GSU,
 
 a full-stack price tracker. paste a product URL, headless chromium scrapes the price, sqlite stores history, and recharts draws the line. the `playwright` MCP lets claude drive a real browser during development to find the right selectors without guessing.
 
